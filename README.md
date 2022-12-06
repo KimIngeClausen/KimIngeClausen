@@ -36,7 +36,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  
-  
-  
 </div>
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KimIngeClausen&theme=dark&border_radius=10&date_format=j%20M%5B%20Y%5D&fire=DD2727)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimIngeClausen)](https://github.com/KimIngeClausen/github-readme-stats)
+
+
+
